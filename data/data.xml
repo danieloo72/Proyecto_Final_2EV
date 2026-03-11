@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE escuderias SYSTEM "escuderias.xsd">
+<escuderias>
+    <escuderia>
+        <nombre>Ferrari</nombre>
+        <imagen>/img/ferrari.jgp</imagen>
+        <descripcion></descripcion>
+    </escuderia>
+
+        <escuderia>
+        <nombre>Red Bull Racing</nombre>
+        <imagen>/img/redbull.jgp</imagen>
+        <descripcion></descripcion>
+    </escuderia>
+
+        <escuderia>
+        <nombre>Mercedes</nombre>
+        <imagen>/img/mercedes.jgp</imagen>
+        <descripcion></descripcion>
+    </escuderia>
+
+        <escuderia>
+        <nombre>McLaren</nombre>
+        <imagen>/img/mclaren.jgp</imagen>
+        <descripcion></descripcion>
+    </escuderia>
+
+        <escuderia>
+        <nombre>Aston Martin</nombre>
+        <imagen>/img/astonmartin.jgp</imagen>
+        <descripcion></descripcion>
+    </escuderia>
+
+        <escuderia>
+        <nombre>Williams Racing</nombre>
+        <imagen>/img/williams.jgp</imagen>
+        <descripcion></descripcion>
+    </escuderia>
+</escuderias>
