@@ -1,6 +1,7 @@
 body {
     background-color: rgb(28, 28, 28);
     text-align: center;
+    color: rgb(255, 255, 255)
 }
 
 @keyframes fadeIn {
@@ -19,7 +20,7 @@ body {
     animation-fill-mode: forwards;
 }
 
-@keyframes boton {
+@keyframes slideIn {
     from {
         opacity: 0;
         transform: translateX(-200px);
@@ -27,11 +28,11 @@ body {
     to {
         opacity: 1;
         transform: translateX(0);
-        background-color: purple;
+        background-color: white;
     }
 }
 
-@keyframes boton {
+@keyframes bote {
     0%, 100% {
         transform: translateY(0);
     }
@@ -42,5 +43,5 @@ body {
 
 .boton {
     animation: slideIn 3s ease-in forwards;
-    animation: bote 2s ease-in-out;
+    animation: bote 2s ease-in-out forwards;
 }
