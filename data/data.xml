@@ -3,37 +3,37 @@
 <escuderias>
     <escuderia>
         <nombre>Ferrari</nombre>
-        <imagen>/img/ferrari.jgp</imagen>
-        <descripcion></descripcion>
+        <imagen>img/ferrari.jpg</imagen>
+        <descripcion>La escudería más laureada de la historia de la F1.</descripcion>
     </escuderia>
 
         <escuderia>
         <nombre>Red Bull Racing</nombre>
-        <imagen>/img/redbull.jgp</imagen>
-        <descripcion></descripcion>
+        <imagen>img/redbull.jpg</imagen>
+        <descripcion>La escudería más laureada de la historia de la F1.</descripcion>
     </escuderia>
 
         <escuderia>
         <nombre>Mercedes</nombre>
-        <imagen>/img/mercedes.jgp</imagen>
-        <descripcion></descripcion>
+        <imagen>img/mercedes.jpg</imagen>
+        <descripcion>Referente de fiabilidad y tecnología híbrida.</descripcion>
     </escuderia>
 
         <escuderia>
         <nombre>McLaren</nombre>
-        <imagen>/img/mclaren.jgp</imagen>
-        <descripcion></descripcion>
+        <imagen>img/mclaren.jpg</imagen>
+        <descripcion>Equipo histórico en constante evolución técnica.</descripcion>
     </escuderia>
 
         <escuderia>
         <nombre>Aston Martin</nombre>
-        <imagen>/img/astonmartin.jgp</imagen>
+        <imagen>img/astonmartin.jpg</imagen>
         <descripcion></descripcion>
     </escuderia>
 
         <escuderia>
         <nombre>Williams Racing</nombre>
-        <imagen>/img/williams.jgp</imagen>
-        <descripcion></descripcion>
+        <imagen>img/williams.jpg</imagen>
+        <descripcion>Un legado legendario buscando volver a la cima.</descripcion>
     </escuderia>
 </escuderias>
