@@ -6,7 +6,10 @@ body {
 
 h1 {
     padding: 10px;
-    
+    width: 450px;
+    margin-top: 250px;
+    margin-bottom: 100px;
+    margin-left: 38%;
 }
 
 @keyframes fadeIn {
@@ -51,5 +54,6 @@ h1 {
     cursor: pointer;
     border: 3px;
     border-radius: 5px;
+    box-shadow: 50px;
     animation: bote 0.75s ease-in-out 3, 3s forwards;
 }

@@ -29,20 +29,27 @@
 
         <main id="resultado" class="main-content"></main>
 
-        <footer class="footer">
-            <p>Proyecto Final - Lenguaje de Marcas 2026</p>
-            <button onclick="window.location.href='index.html'">Volver al Inicio</button>
-        </footer>
     </div>
 
     <dialog id="modalEscuderia">
         <h2 id="modalTitulo">Nombre</h2>
-        <img id="modalImagen" src="" style="width:100%; border-radius: 5px;">
+        <img id="modalImagen" src="">
         <hr>
         <p><strong>Descripción:</strong></p>
         <p id="modalDescripcion"></p>
         <button id="cerrarModal">Cerrar</button>
     </dialog>
+
+    <div id="modalAdd" class="fondo-personalizado">
+        <div class="modal-box">
+            <h3>Nueva Escudería</h3>
+            <input type="text" id="nuevoNombre" placeholder="Nombre">
+            <textarea id="nuevaDesc" placeholder="Descripción"></textarea>
+            <input type="file" id="nuevaImg" accept="image/*">
+            <button id="btnGuardar">Guardar Escudería</button>
+            <button id="btnCancelarAdd">Cancelar</button>
+        </div>
+    </div>
 
     <div id="modalAdd" class="modal-personalizado">
         <div class="modal-box">
@@ -54,5 +61,9 @@
             <button id="btnCancelarAdd">Cancelar</button>
         </div>
     </div>
+        <footer class="footer">
+            <p>Proyecto Final - Lenguaje de Marcas 2026</p>
+            <button onclick="window.location.href='index.html'">Volver al Inicio</button>
+        </footer>
 </body>
 </html>
